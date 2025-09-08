@@ -1,27 +1,29 @@
-<!-- Banner superior con animación -->
+<!-- Imagen principal con tu background -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:006633&height=200&section=header&text=Luis%20Futuro%20🚀&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="banner"/>
+  <img src="./background.JPG" alt="LuisFuturo Banner" width="100%"/>
 </p>
-
-<!-- Logo personal -->
-<p align="center">
-  <img src="./background.JPG" alt="Luis Futuro Logo" width="350" style="border-radius: 40px;"/>
-</p>
-
-# 👋 Hi, I’m Luis Alejandro Zeballos — aka *LuisFuturo*  
-
-💻 **Fullstack Web Developer (Junior)**  
-I’m a passionate developer from **Bolivia**, with solid knowledge in **frontend** and **backend** technologies.  
-I love transforming ideas into digital products that are **functional, scalable, and visually attractive**.  
 
 ---
 
-## 🌌 Vision & Goals  
+## 🚀 About Me  
 
-- 🌱 Lifelong learner exploring **Web Development & Artificial Intelligence**  
-- 🌍 From **La Paz, Bolivia**, aiming to build scalable solutions for real-world challenges  
-- 💡 Mission: combine **creativity, technology and entrepreneurship** to create impact  
-- 🔮 Future goal: Lead a **tech company** and collaborate in **global open-source projects**  
+- 🌎 From **La Paz, Bolivia**  
+- 💻 Passionate **Fullstack Web Developer (Junior)**  
+- 🌱 Constantly learning and building **real-world projects**  
+- 🎯 Goal: grow into a **tech entrepreneur** and lead impactful digital solutions  
+
+---
+
+## ⚡ Animated Vibes  
+
+<p align="center">
+  <!-- Rayos verdes animados con SVG -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" alt="electric gif"/>
+</p>
 
 ---
 
@@ -48,7 +50,7 @@ I love transforming ideas into digital products that are **functional, scalable,
 
 ---
 
-## 🌐 Portfolio & Links  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://portfolio-luis-zeballos.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=netlify&logoColor=white" /></a>
@@ -59,42 +61,17 @@ I love transforming ideas into digital products that are **functional, scalable,
 
 ---
 
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisFuturo&show_icons=true&theme=green_nur&hide_border=true&bg_color=0D1117&title_color=00FF87&icon_color=00FF87" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisFuturo&theme=github-dark-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFuturo&layout=compact&theme=green_nur&hide_border=true&bg_color=0D1117&title_color=00FF87" alt="Top Languages" />
-</p>
-
----
-
-## ⚡ Highlights  
-
-- ✨ Strong foundation in **web technologies**  
-- 🤝 Open to collaborations and learning from others  
-- 🧑‍💻 Currently building **personal projects** and practicing **real-world app development**  
-- 📈 Goal: contribute to **scalable systems** and **open-source communities**  
-
----
-
 ## ✨ Fun Fact  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="matrix gif"/>
 </p>
 
 > *“The future belongs to those who code it.”* 🚀  
 
 ---
 
-<!-- Footer con efecto -->
+<!-- Footer verde eléctrico -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006633,100:00FF87&height=120&section=footer" />
 </p>
