@@ -5,7 +5,7 @@
 
 <!-- Logo personal -->
 <p align="center">
-  <img src="./logo.jpg" alt="Luis Futuro Logo" width="180" style="border-radius:50%;"/>
+  <img src="./background.jpg" alt="Luis Futuro Logo" width="180" style="border-radius:50%;"/>
 </p>
 
 # 👋 Hi, I’m Luis Alejandro Zeballos — aka *LuisFuturo*  
@@ -17,10 +17,6 @@ I love transforming ideas into digital products that are **functional, scalable,
 ---
 
 ## 🌌 Vision & Goals  
-
-<p align="center">
-  <img src="./background.jpeg" alt="background" width="100%" />
-</p>
 
 - 🌱 Lifelong learner exploring **Web Development & Artificial Intelligence**  
 - 🌍 From **La Paz, Bolivia**, aiming to build scalable solutions for real-world challenges  
