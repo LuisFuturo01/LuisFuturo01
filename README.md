@@ -5,7 +5,7 @@
 
 <!-- Logo personal -->
 <p align="center">
-  <img src="./background.JPG" alt="Luis Futuro Logo" width="180" style="border-radius:50%;"/>
+  <img src="./background.JPG" alt="Luis Futuro Logo" width="350" style="border-radius: 40px;"/>
 </p>
 
 # 👋 Hi, I’m Luis Alejandro Zeballos — aka *LuisFuturo*  
