@@ -1,42 +1,52 @@
-<!-- Banner Principal -->
+<!-- Banner superior con animación -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8BFF,100:00C9A7&height=200&section=header&text=Luis%20Futuro%20🚀&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:006633&height=200&section=header&text=Luis%20Futuro%20🚀&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="banner"/>
+</p>
+
+<!-- Logo personal -->
+<p align="center">
+  <img src="./logo.jpg" alt="Luis Futuro Logo" width="180" style="border-radius:50%;"/>
 </p>
 
 # 👋 Hi, I’m Luis Alejandro Zeballos — aka *LuisFuturo*  
 
 💻 **Fullstack Web Developer (Junior)**  
-I’m a passionate developer from **Bolivia**, with strong knowledge in **frontend** and **backend** technologies.  
-I love turning ideas into real digital solutions, learning new tools, and building projects that can scale.  
+I’m a passionate developer from **Bolivia**, with solid knowledge in **frontend** and **backend** technologies.  
+I love transforming ideas into digital products that are **functional, scalable, and visually attractive**.  
 
 ---
 
-## 🚀 About Me  
+## 🌌 Vision & Goals  
 
-- 🌎 From **La Paz, Bolivia**  
-- 🎯 Focused on **Web Development & AI integration**  
-- 📚 Lifelong learner, always exploring **new frameworks and technologies**  
-- 💡 Goal: Build impactful projects and grow into a **tech entrepreneur**  
+<p align="center">
+  <img src="./background.jpeg" alt="background" width="100%" />
+</p>
+
+- 🌱 Lifelong learner exploring **Web Development & Artificial Intelligence**  
+- 🌍 From **La Paz, Bolivia**, aiming to build scalable solutions for real-world challenges  
+- 💡 Mission: combine **creativity, technology and entrepreneurship** to create impact  
+- 🔮 Future goal: Lead a **tech company** and collaborate in **global open-source projects**  
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,php,laravel,mysql,postgresql,github&theme=dark" />
 </p>
 
 <div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)  
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)  
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)  
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)  
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)  
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)  
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)  
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)  
 
 </div>
 
@@ -45,50 +55,50 @@ I love turning ideas into real digital solutions, learning new tools, and buildi
 ## 🌐 Portfolio & Links  
 
 <p align="center">
-  <a href="https://portfolio-luis-zeballos.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/luis-alejandro-zeballos-quiroz-324bab2b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/zalexui"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://portfolio-luis-zeballos.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luis-alejandro-zeballos-quiroz-324bab2b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/zalexui"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://wa.me/59171556955"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisFuturo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisFuturo&show_icons=true&theme=green_nur&hide_border=true&bg_color=0D1117&title_color=00FF87&icon_color=00FF87" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisFuturo&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuisFuturo&theme=github-dark-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFuturo&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFuturo&layout=compact&theme=green_nur&hide_border=true&bg_color=0D1117&title_color=00FF87" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌱 Current Focus  
+## ⚡ Highlights  
 
-- 🚀 Enhancing my **React.js** & **Laravel** skills  
-- 🧑‍💻 Building real-world projects  
-- 🤝 Collaborating on **open-source**  
-- 📊 Exploring **AI for web development**  
+- ✨ Strong foundation in **web technologies**  
+- 🤝 Open to collaborations and learning from others  
+- 🧑‍💻 Currently building **personal projects** and practicing **real-world app development**  
+- 📈 Goal: contribute to **scalable systems** and **open-source communities**  
 
 ---
 
 ## ✨ Fun Fact  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" alt="coding gif"/>
 </p>
 
-> “The future belongs to those who code it.” 🚀  
+> *“The future belongs to those who code it.”* 🚀  
 
 ---
 
-<!-- Footer -->
+<!-- Footer con efecto -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:2E8BFF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006633,100:00FF87&height=120&section=footer" />
 </p>
