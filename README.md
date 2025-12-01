@@ -1,7 +1,9 @@
 <!-- HEADER: GLITCH EFFECT & CYBERPUNK BANNER -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26weight%3D900%26size%3D50%26duration%3D3000%26pause%3D1000%26color%3D00FF9C%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26height%3D100%26lines%3DLUIS%2BZEBALLOS%3BFULL%2BSTACK%2BDEV%3BSYSTEM%2BONLINE...%3BNEURAL%2BLINK%2BESTABLISHED" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26weight%3D900%26size%3D45%26duration%3D3000%26pause%3D1000%26color%3D00FF9C%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26height%3D70%26lines%3DLUIS%2BZEBALLOS%3BFULL%2BSTACK%2BARCHITECT%3BSYSTEM%2BONLINE...%3BNEURAL%2BLINK%2BESTABLISHED" alt="Typing SVG" />
+</a>
 
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0d1117,100:00FF9C%26height%3D120%26section%3Dheader%26animation%3DfadeIn" width="100%" />
 </div>
@@ -11,13 +13,16 @@
 <div align="center">
 
 <a href="https://portfolio-luis-zeballos.netlify.app/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ACCESS_PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D00FF9C%26border%3D00FF9C" height="35" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ACCESS_PORTFOLIO-000000%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D00FF9C%26border%3D00FF9C" height="30" />
 </a>
 <a href="https://www.linkedin.com/in/luis-alejandro-zeballos-quiroz-324bab2b9">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINK_DATA-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="35" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINK_DATA-0A66C2%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" height="30" />
 </a>
 <a href="https://www.google.com/search?q=https://github.com/LuisFuturo%3Ftab%3Drepositories">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SOURCE_CODE-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" height="35" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SOURCE_CODE-181717%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" height="30" />
+</a>
+<a href="https://wa.me/59171556955">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SECURE_CHAT-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" height="30" />
 </a>
 
 </div>
@@ -27,34 +32,35 @@
 <!-- SECCIÓN PRINCIPAL: HOLOGRAMA DE IDENTIDAD -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" />
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" style="border-radius: 50%; box-shadow: 0 0 20px #00FF9C;" />
 <h3>⚡ SYSTEM USER DETECTED: <span style="color: #00FF9C;">[ADMIN]</span></h3>
 </div>
 
 <div align="center">
 <table border="0" width="100%">
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 🔮 Profile Initialization...
 
-class Developer {
-  constructor() {
-    this.name = "Luis Zeballos";
-    this.role = "Full Stack Architect";
-    this.origin = "Bolivia 🇧🇴";
-    this.level = "Junior++";
-    this.mana = "Coffee ☕";
-  }
+const Developer = {
+    user: "Luis Zeballos",
+    role: "Full Stack Architect",
+    origin: "Bolivia 🇧🇴",
+    level: "Junior++",
+    mana: "Coffee ☕",
+    
+    skills: [
+        "React", "Next.js", 
+        "Laravel", "Python",
+        "AI Integration"
+    ],
 
-  getCurrentQuest() {
-    return {
-      objective: "Mastering AI & Scalability",
-      status: "In Progress 🔄",
-      stack: ["Next.js", "Laravel", "Python"]
-    };
-  }
-}
+    mission: function() {
+        return "Building scalable futures.";
+    }
+};
+console.log(Developer.mission());
 
 
 <!-- TEXTO OCULTO DESPLEGABLE -->
@@ -68,7 +74,7 @@ class Developer {
 
 Soy un desarrollador de software enfocado en crear experiencias digitales inmersivas y funcionales. Mi filosofía es simple: <b>Código limpio, escalabilidad masiva y diseño impactante.</b>
 
-Busco transformar ideas abstractas en productos tangibles que resuelvan problemas reales.
+Busco transformar ideas abstractas en productos tangibles que resuelvan problemas reales. Actualmente explorando la intersección entre desarrollo web e Inteligencia Artificial.
 
 </details>
 
@@ -87,7 +93,7 @@ Busco transformar ideas abstractas en productos tangibles que resuelvan problema
 <!-- TECH STACK ANIMADO -->
 
 <h2 align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" />
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle" />
 Weapons of Choice
 </h2>
 
@@ -119,7 +125,7 @@ Weapons of Choice
 
 
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,postman,figma,photoshop,vercel,netlify,idea%26perline%3D9%26theme%3Ddark" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,postman,figma,photoshop,vercel,netlify,idea%26perline%3D12%26theme%3Ddark" />
 </a>
 </div>
 
@@ -128,7 +134,7 @@ Weapons of Choice
 <h2 align="center">📊 Data Visualization</h2>
 
 <div align="center">
-<table border="0">
+<table border="0" width="100%">
 <tr>
 <td width="50%" align="center">
 <!-- LENGUAJES USADOS (Dona) -->
@@ -199,13 +205,21 @@ Node.js Mongo JWT
 <tr>
 <td width="60%">
 
-🎧 Coding Frequency
+🎧 Neural Frequency
 
-“Listening to synthwave/lo-fi while coding increases productivity by 200%.”
+“Escuchando Synthwave/Lo-Fi mientras programo para aumentar la productividad al 200%.”
 
-Aquí es donde aparecería lo que estoy escuchando en Spotify si tuviera la integración conectada. Mientras tanto, imagina una playlist épica de Daft Punk y Hans Zimmer.
+La música es parte esencial de mi flujo de trabajo. Me ayuda a mantener el foco en problemas complejos de arquitectura y lógica.
 
-<img src="https://www.google.com/search?q=https://spotify-github-profile.vercel.app/api/view%3Fuid%3Dtu_id_de_spotify_aqui%26cover_image%3Dtrue%26theme%3Dnatemoo-re%26bar_color%3D00ff9c%26bar_color_cover%3Dfalse" alt="(Optional) Spotify Playing" />
+<!-- SPOTIFY PLACEHOLDER VISUAL (Ya que requiere login real, usamos un badge estático bonito para no romper el diseño) -->
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spotify-Playing_Now-1DB954%3Fstyle%3Dfor-the-badge%26logo%3Dspotify%26logoColor%3Dwhite" />
+
+
+
+
+
+<i>Actualmente sonando: Daft Punk - Tron Legacy OST</i>
 
 </td>
 <td width="40%" align="center">
