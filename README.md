@@ -83,6 +83,8 @@ Busco transformar ideas abstractas en productos tangibles que resuelvan problema
 
 <!-- ESTADÍSTICAS ESTILO TARJETA RPG -->
 
+<!-- Nota: Asegúrate de que 'LuisFuturo' sea tu usuario real de GitHub en la URL -->
+
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DLuisFuturo%26show_icons%3Dtrue%26theme%3Dreact%26bg_color%3D0d1117%26hide_border%3Dtrue%26title_color%3D00FF9C%26icon_color%3D00FF9C%26text_color%3Dffffff%26rank_icon%3Dgithub" alt="Luis Stats" />
 
 </td>
@@ -211,7 +213,7 @@ Node.js Mongo JWT
 
 La música es parte esencial de mi flujo de trabajo. Me ayuda a mantener el foco en problemas complejos de arquitectura y lógica.
 
-<!-- SPOTIFY PLACEHOLDER VISUAL (Ya que requiere login real, usamos un badge estático bonito para no romper el diseño) -->
+<!-- SPOTIFY PLACEHOLDER VISUAL (Badge Estático) -->
 
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Spotify-Playing_Now-1DB954%3Fstyle%3Dfor-the-badge%26logo%3Dspotify%26logoColor%3Dwhite" />
 
@@ -232,7 +234,9 @@ La música es parte esencial de mi flujo de trabajo. Me ayuda a mantener el foco
 <!-- FOOTER CON SNAKE GAME INTEGRADO VISUALMENTE -->
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="snake"/>
+<!-- NOTA: Para que esta imagen funcione, necesitas activar la GitHub Action de 'snk'. Mientras tanto, se mostrará como imagen rota si no existe el archivo en tu repo.
+Puedes reemplazar esto temporalmente con un GIF si no has configurado la acción. -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Activa GitHub Actions para ver Snake"/>
 
 <p align="center">
 <img src="https://www.google.com/search?q=https://visitor-badge.laobi.icu/badge%3Fpage_id%3DLuisFuturo.LuisFuturo%26left_color%3D0d1117%26right_color%3D00FF9C%26left_text%3DHACKERS_VISITED" />
