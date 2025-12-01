@@ -1,114 +1,90 @@
-<p align="center">
-  <img src="./background.JPG" alt="Banner Personal" width="100%" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisFuturo&left_color=0D1117&right_color=00FF87" alt="Visitors Badge"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-       style="max-width: 100%; display: inline-block;"
-       alt="Animated Separator" />
-</p>
-
-<h2 align="center" style="background: linear-gradient(90deg, #00FF87, #006633); -webkit-background-clip: text; color: transparent;">
-  Fullstack Web Developer from Bolivia 🌍
-</h2>
-
----
-
-## 🌟 About Me  
-
-- 💻 Junior **Fullstack Web Developer** with strong knowledge in frontend & backend  
-- 🚀 Passionate about **building scalable, creative digital solutions**  
-- 📍 From **La Paz, Bolivia**  
-- 🎯 Goal: Become a **tech entrepreneur** and create impactful products  
-- 🧠 Always learning: **React, Next.js, Laravel, AI**  
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF87&lines=Crafting+the+future;Coding+day+and+night;Turning+ideas+into+reality" alt="Typing SVG" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF87,100:006633&height=4&section=header"/>
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,sass,php,laravel,mysql,postgresql,git,github&theme=dark" />
-</p>
-
 <div align="center">
+  <img src="./background.JPG" alt="Luis Zeballos Banner" width="100%" style="border-radius: 10px; box-shadow: 0px 0px 20px #00FF87;" />
+  
+  <br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sass](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=CC6699)  
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=435&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Luis+Zeballos;Fullstack+Dev+from+Bolivia+%F0%9F%87%A7%F0%9F%87%B4;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+  
+  <br/>
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LuisFuturo.LuisFuturo&left_color=0D1117&right_color=00FF87&left_text=Visitors" alt="visitors"/>
 </div>
 
 ---
 
-<p align="center">
-  <svg width="600" height="100">
-    <line x1="0" y1="50" x2="600" y2="50" stroke="#00FF87" stroke-width="2">
-      <animate attributeName="x2" from="0" to="600" dur="2s" repeatCount="indefinite" />
-      <animate attributeName="stroke-dasharray" values="5,5;10,10;20,20" dur="3s" repeatCount="indefinite"/>
-    </line>
-  </svg>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center" width="60%">
+        <h2>⚡ About Me</h2>
+        <br/>
+        
+> *“Turning coffee ☕ into code, and ideas into reality.”*
+
+<br/>
+
+- 💻 **Junior Fullstack Web Developer** crafting scalable solutions.
+- 📍 Based in **La Paz, Bolivia** 🌍.
+- 🧠 Currently mastering: **React, Next.js, Laravel & AI Integration**.
+- 🎯 **Goal:** Launch impactful tech products as an entrepreneur.
+- 🚀 Passionate about clean code and pixel-perfect design.
+
+<br/>
+        
+<div align="left">
+  <a href="https://portfolio-luis-zeballos.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=netlify&logoColor=00FF87" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-alejandro-zeballos-quiroz-324bab2b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF87" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/zalexui" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF87" alt="Instagram"/>
+  </a>
+  <a href="https://wa.me/59171556955" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=00FF87" alt="WhatsApp"/>
+  </a>
+</div>
+
+</td>
+<td valign="center" width="40%">
+    <div align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif" />
+    </div>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 📬 Connect with Me  
+<h2 align="center">🛠 Tech Stack</h2>
 
-<p align="center">
-  <a href="https://portfolio-luis-zeballos.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FF87?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-alejandro-zeballos-quiroz-324bab2b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/zalexui">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://wa.me/59171556955">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,sass,tailwind,php,laravel,mysql,postgres,git,github,vscode,figma&perline=8&theme=dark" />
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contributions Snake" />
-</p>
+<h2 align="center">🔥 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisFuturo&show_icons=true&theme=transparent&title_color=00FF87&text_color=ffffff&icon_color=00FF87&bg_color=0D1117&border_color=00FF87&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFuturo&layout=compact&theme=transparent&title_color=00FF87&text_color=ffffff&icon_color=00FF87&bg_color=0D1117&border_color=00FF87&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+</div>
 
 ---
 
-## ✨ Fun Fact  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="Matrix GIF" />
-</p>
-
-> *“Turning coffee ☕ into code 💻, and ideas into reality 🚀.”*
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006633,100:00FF87&height=120&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:0D1117&height=100&section=footer&text=Let's%20Code%20The%20Future&fontColor=ffffff&fontSize=20&fontAlign=50" width="100%"/>
+</div>
